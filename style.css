@@ -9,3 +9,9 @@ img{
     height: auto;
 }
 
+@media (min-width: 768px) {
+  .main-img{
+      height: 100%;    
+  }
+}
+    
