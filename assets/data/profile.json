@@ -1,0 +1,139 @@
+{
+  "profile": {
+    "name": "Muhammad Khizar Bajwa",
+    "title": "Senior Software Engineer – .NET Full Stack Developer",
+    "email": "khizar.bajwa107@gmail.com",
+    "phone": "(646)-300-9009",
+    "address": "Cleveland, Ohio",
+    "summary": "Full-Stack Software Engineer with 7+ years of experience delivering scalable web and enterprise applications using ASP.NET, .NET Core, Angular, and modern DevOps practices. Proven success designing end-to-end solutions across finance, ERP, and analytics domains, with hands-on leadership in monolithic, n-layered, and microservices architectures. Skilled in RESTful APIs, SQL performance tuning, and cloud-native development using Jenkins, Docker, AWS, and CI/CD pipelines."
+  },
+  "education": [
+    {
+      "school": "Cleveland State University",
+      "location": "Cleveland, Ohio",
+      "degree": "Master of Science",
+      "field": "Computer Science",
+      "graduation": "Expected May 2026"
+    },
+    {
+      "school": "COMSATS University Islamabad",
+      "location": "Islamabad, Pakistan",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "graduation": "2018",
+      "related_coursework": [
+        "Data Structures & Algorithms",
+        "Objects & Design",
+        "Computer Organization & Programming",
+        "Object-Oriented Programming"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["C#", "Python", "JavaScript", "TypeScript", "SQL"],
+    "frameworks": [".NET Core", "ASP.NET MVC", "Entity Framework", "Angular (2+)"],
+    "databases": ["SQL Server", "PostgreSQL", "MySQL", "Redis", "SQLite"],
+    "architecture_design": ["Monolithic", "N-Layered", "Onion", "Microservices", "CQRS", "RESTful APIs", "Design Patterns (MVC, DI/IoC, Singleton)"],
+    "devops_cloud": ["Jenkins", "Docker", "AWS (EC2, S3)", "Proxmox VE", "CI/CD", "UrbanCode Deploy"],
+    "security_tools": ["VeraCode", "SonarQube", "Rapid7", "Checkmarx"],
+    "development_tools": ["Git", "Azure DevOps", "Jira", "BitBucket", "Visual Studio", "Postman", "Swagger"],
+    "methodologies": ["Agile/Scrum", "Kanban", "TDD", "Sprint Planning", "Backlog Grooming", "Storyboarding", "Retrospective"]
+  },
+  "tools": {
+    "apis_sdks": ["Zoom SDK", "Twilio", "MaxMind GeoIP", "AWS MediaLive"],
+    "utilities": ["IBM Jazz (RTC, CCM)", "UrbanCode Deploy", "RTC Workflow Management"],
+    "design_modeling": ["MS Visio", "Draw.io", "UML"],
+    "security_testing": ["Burp Suite", "SQL Injection", "Traffic Exploitation (educational use)"],
+    "remote_access": ["Putty", "FileZilla", "RDC", "Rust Desk"],
+    "web_servers": ["IIS", "Kestrel", "Nginx", "Apache (XAMPP)"]
+  },
+  "projects": [
+    {
+      "name": "Feedback through Facial Expression",
+      "tech_stack": ["Python", "OpenCV", "DLIB", "R"],
+      "description": "Built a real-time feedback system using facial emotion recognition. Trained classifiers on 13,000+ labeled images using SVM and statistical models in R.",
+      "role": "Project Leader",
+      "organization": "COMSATS University"
+    },
+    {
+      "name": "Teaching Assistant - Python",
+      "tech_stack": ["Python"],
+      "description": "Mentored 60+ students across two semesters in introductory Python courses. Helped students debug assignments and understand core programming concepts.",
+      "role": "Teaching Assistant",
+      "organization": "COMSATS University"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ISaleBestLLC",
+      "duration": "2023 - Present",
+      "role": "Senior Software Engineer",
+      "tech_stack": ["C#", "Angular 10+", "REST APIs", "PostgreSQL", "Docker", "Python", "Jenkins", "AWS", "Proxmox", "T-SQL", "Rapid7", "Veracode"],
+      "responsibilities": [
+        "Developed a Warehouse Management System using ASP.NET Core and Angular.",
+        "Built a Patient Management Portal for a clinic.",
+        "Engineered a Payroll & Role-Based Access System.",
+        "Created a Remote Desktop Monitoring Tool in Python.",
+        "Launched an Internal Blog Management System.",
+        "Designed a Configuration Management Portal.",
+        "Developed Data Scraping Pipelines for chemical inventory reporting.",
+        "Compiled a Legal Services Directory by scraping multiple sources.",
+        "Identified and remediated vulnerabilities flagged by Rapid7 and Veracode."
+      ]
+    },
+    {
+      "company": "Strategic Systems International (SSI)",
+      "duration": "Jan 2021 – Jan 2022",
+      "role": "Senior Software Engineer",
+      "tech_stack": ["ASP.NET Core", "C#", "Dapper", "Entity Framework", "MySQL", "T-SQL", "Syncfusion", "REST APIs"],
+      "responsibilities": [
+        "Maintained and modernized the GfK Shopper Insight platform.",
+        "Migrated modules from legacy ASP.NET to ASP.NET Core.",
+        "Integrated charts and dashboards for analytics teams.",
+        "Rewrote slow-performing queries and APIs.",
+        "Mentored junior engineers on best practices."
+      ]
+    },
+    {
+      "company": "Decoin.io (Blockchain Exchange)",
+      "duration": "Aug 2019 – Jan 2021",
+      "role": "Full Stack Software Engineer",
+      "tech_stack": ["ASP.NET Core", "Angular 10", "Entity Framework", "RabbitMQ", "MySQL", "PHP", "AWS", "Microservices"],
+      "responsibilities": [
+        "Designed and maintained modules for a digital currency exchange platform.",
+        "Upgraded systems to .NET Core microservices.",
+        "Integrated RabbitMQ message queues.",
+        "Developed secure KYC onboarding module.",
+        "Optimized SEO and page speed for public sites."
+      ]
+    },
+    {
+      "company": "Accountsware LTD",
+      "duration": "Mar 2019 – Aug 2019",
+      "role": "Senior Software Engineer",
+      "tech_stack": ["ASP.NET Core", "Angular 8", "Entity Framework", "RabbitMQ", "CQRS", "MSSQL", "PostgreSQL"],
+      "responsibilities": [
+        "Developed and maintained modules for an Online Accounting ERP system.",
+        "Implemented microservices architecture with CQRS and RabbitMQ.",
+        "Created RESTful APIs and reusable UI components.",
+        "Optimized data layer performance and reporting."
+      ]
+    },
+    {
+      "company": "NetSole Technologies",
+      "duration": "Aug 2018 – Jan 2019",
+      "role": "Junior Software Engineer",
+      "tech_stack": ["ASP.NET MVC5", "ADO.NET", "SQL Server", "MSSQL", "Entity Framework", "Razor", "jQuery", "Bootstrap"],
+      "responsibilities": [
+        "Developed modules for an in-house ERP system.",
+        "Designed web interfaces using Razor and Bootstrap.",
+        "Maintained customer, vendor, and employee portals.",
+        "Wrote SQL queries, stored procedures, and triggers."
+      ]
+    }
+  ],
+  "links": {
+    "linkedin": "http://www.linkedin.com/in/khizarbajwa",
+    "github": "https://github.com/khizarbajwa"
+  }
+}
