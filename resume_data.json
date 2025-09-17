@@ -4,7 +4,7 @@
   "summary": "Experienced in end-to-end support and enhancement of enterprise applications across multiple environments. Adept at identifying performance bottlenecks, root-cause analysis, and applying coding standards for reliable, scalable systems. Proven ability to translate business needs into technical solutions while collaborating across cross-functional teams.",
   "contact": {
     "status": "Available for full-time",
-    "email": "khizarbajwa9@gmail.com",
+    "email": "khizarbajwa@gmail.com",
     "github": "https://github.com/khizarbajwa",
     "linkedin": "https://www.linkedin.com/in/khizarbajwa/"
   },
@@ -110,6 +110,18 @@
         "Optimized stored procedures and indexes for performance."
       ]
     },
+    {
+      "company": "Software Alliance",
+      "role": "Software Engineer",
+      "duration": "Jul 2017 – Apr 2018",
+      "tech_stack": ["ASP.NET MVC", "C#", "jQuery", "SQL Server"],
+      "achievements": [
+        "Developed financial modules with CRUD operations and reporting.",
+        "Implemented authentication and authorization workflows.",
+        "Enhanced UI features using jQuery and Bootstrap."
+      ]
+    },
+
     {
       "company": "Freelance",
       "role": "Independent / Python Developer",
