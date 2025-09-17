@@ -1,0 +1,329 @@
+{
+  "name": "Muhammad Khizar Bajwa",
+  "title": "Software Engineer",
+  "contact": {
+    "status": "US Permanent Resident",
+    "email": "thekhizarbajwa@gmail.com",
+    "phone": "(646)-300-9009",
+    "linkedin": "https://www.linkedin.com/in/khizarbajwa",
+    "github": "https://github.com/khizarbajwa"
+  },
+  "summary": "Experienced in end-to-end support and enhancement of enterprise applications across multiple environments. Adept at identifying performance bottlenecks, root cause analysis, and applying coding standards for scalable, reliable systems. Proven ability to translate business needs into technical solutions while collaborating across cross-functional teams.",
+  "education": [
+    {
+      "institution": "Cleveland State University",
+      "location": "Cleveland, Ohio",
+      "degree": "Master of Science in Computer Science"
+    },
+    {
+      "institution": "COMSATS University Islamabad",
+      "location": "Islamabad, Pakistan",
+      "degree": "Bachelor of Science in Computer Science",
+      "year_completed": 2018
+    }
+  ],
+  "core_competencies": {
+    "languages": [
+      "C#",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "JUnit",
+      "Maven"
+    ],
+    "frameworks": [
+      ".NET Core (MVC, Web API, Hub)",
+      "ASP.NET MVC",
+      "Entity Framework",
+      "Angular (2+)",
+      "VueJs",
+      "Razor",
+      "Blazor",
+      "Bootstrap",
+      "Semantic UI",
+      "Django",
+      "FastAPI",
+      "Flask"
+    ],
+    "databases": [
+      "SQL Server",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "SQLite"
+    ],
+    "data_nlp": [
+      "SpaCy",
+      "NLTK",
+      "Pandas",
+      "NumPy",
+      "Selenium",
+      "Scrapy"
+    ],
+    "architecture_design": [
+      "Monolithic",
+      "N-Layered",
+      "Onion",
+      "Microservices",
+      "CQRS",
+      "RESTful APIs",
+      "Design Patterns (MVC, DI/IoC, Singleton)"
+    ],
+    "security_tools": [
+      "VeraCode",
+      "SonarQube",
+      "Rapid7",
+      "Checkmarx"
+    ],
+    "devops_cloud": [
+      "Jenkins",
+      "Docker",
+      "AWS (EC2, S3)",
+      "Proxmox VE",
+      "CI/CD",
+      "UrbanCode Deploy"
+    ],
+    "development_tools": [
+      "Git",
+      "Azure DevOps",
+      "Jira",
+      "Visual Studio",
+      "Postman",
+      "Swagger",
+      "Gitflow",
+      "GitHub workflows",
+      "Bitbucket",
+      "Pull Requests",
+      "Branch Management"
+    ],
+    "methodologies": [
+      "Agile/Scrum",
+      "Kanban",
+      "TDD",
+      "Sprint Planning",
+      "Backlog Grooming",
+      "Storyboarding",
+      "Retrospective"
+    ]
+  },
+  "additional_tools": {
+    "apis_sdks": [
+      "Zoom SDK",
+      "Twilio",
+      "MaxMind GeoIP",
+      "AWS MediaLive"
+    ],
+    "utilities": [
+      "IBM Jazz (RTC, CCM)",
+      "UrbanCode Deploy",
+      "RTC Workflow Management"
+    ],
+    "design_modeling": [
+      "MS Visio",
+      "Draw.io",
+      "UML"
+    ],
+    "security_testing": [
+      "Burp Suite",
+      "SQL Injection",
+      "Traffic Exploitation (educational use)"
+    ],
+    "remote_access": [
+      "Putty",
+      "FileZilla",
+      "RDC",
+      "Rust Desk"
+    ],
+    "web_servers": [
+      "IIS",
+      "Kestrel",
+      "Nginx",
+      "Apache (XAMPP)"
+    ]
+  },
+  "experience": [
+    {
+      "company": "ISaleBestLLC",
+      "role": "Senior Software Engineer",
+      "duration": "April 2023 - June 2025",
+      "tech_stack": [
+        "C#",
+        "Angular 10+",
+        "Razor",
+        "Blazor",
+        "REST APIs",
+        "PostgreSQL",
+        "Docker",
+        "Python",
+        "Jenkins",
+        "AWS",
+        "Proxmox",
+        "T-SQL",
+        "Rapid7",
+        "Veracode",
+        "Pycharm",
+        "Jupyter Notebook",
+        "Windows",
+        "Linux",
+        "MSSQL",
+        "SQL"
+      ],
+      "achievements": [
+        "Developed and deployed DMBClinic.com website using Umbraco 16, containerized with Docker.",
+        "Designed prototype for sooflii.com marketplace using ASP.NET Core MVC + SQL Server; Vue 3 + Axios dashboard improved load times by 40%.",
+        "Built Warehouse Management System (ASP.NET Core + Angular).",
+        "Developed Patient Management Portal (Vue 3 + .NET Core APIs + SQL Server).",
+        "Created Remote Desktop Monitoring Tool in Python.",
+        "Launched Internal Blog Management System (Blazor + .NET Core APIs + EF Core).",
+        "Built Configuration Management Portal.",
+        "Developed Data Scraping Pipelines for chemical inventory.",
+        "Compiled Legal Services Directory via scraping.",
+        "Remediated vulnerabilities flagged by Rapid7 and Veracode."
+      ]
+    },
+    {
+      "company": "Strategic Systems International (SSI)",
+      "role": "Senior Software Engineer",
+      "duration": "Jan 2021 - Jan 2022",
+      "tech_stack": [
+        "ASP.NET Core",
+        "C#",
+        "Dapper",
+        "Entity Framework",
+        "MySQL",
+        "T-SQL",
+        "Syncfusion",
+        "Agile",
+        "REST APIs"
+      ],
+      "achievements": [
+        "Maintained and modernized GfK Shopper Insight platform for 1000+ store locations.",
+        "Migrated modules from legacy ASP.NET to ASP.NET Core with N-Tier architecture.",
+        "Added interactive charts and dashboards.",
+        "Optimized queries and APIs for performance.",
+        "Built internal Payroll & RBAC system with automated salary processing.",
+        "Mentored two junior engineers on DI and layered design."
+      ]
+    },
+    {
+      "company": "Decoin.io (Zech Technologies)",
+      "role": "Full Stack Software Engineer",
+      "duration": "Aug 2019 - Jan 2021",
+      "tech_stack": [
+        "ASP.NET Core",
+        "Angular 10",
+        "Razor",
+        "Blazor",
+        "Semantic UI",
+        "Bootstrap",
+        "Entity Framework",
+        "RabbitMQ",
+        "MySQL",
+        "PHP",
+        "AWS",
+        "Microservices",
+        "SignalR",
+        "Webhook",
+        "Zoom SDK",
+        "AWS Media Live",
+        "Ubuntu Server",
+        "Rest APIs",
+        "Cron Job",
+        "Burp Suite",
+        "MSSQL"
+      ],
+      "achievements": [
+        "Designed and maintained digital currency exchange for 10,000+ users.",
+        "Migrated systems to .NET Core microservices.",
+        "Led backend team and cron job orchestration.",
+        "Integrated Zoom SDK + AWS MediaLive for video streaming.",
+        "Integrated RabbitMQ for scalable transactions.",
+        "Developed KYC onboarding module.",
+        "Implemented Angular front-end dashboards.",
+        "Improved SEO and page performance."
+      ]
+    },
+    {
+      "company": "Accountsware LTD",
+      "role": "Senior Software Engineer",
+      "duration": "Mar 2019 - Aug 2019",
+      "tech_stack": [
+        "ASP.NET Core",
+        "Angular 8",
+        "Entity Framework",
+        "RabbitMQ",
+        "CQRS",
+        "MSSQL",
+        "PostgreSQL",
+        "Semantic UI"
+      ],
+      "achievements": [
+        "Maintained Online Accounting ERP system for SMB clients.",
+        "Implemented microservices architecture with CQRS + RabbitMQ.",
+        "Built vendor, customer, and asset management features.",
+        "Optimized PostgreSQL + MSSQL queries.",
+        "Built reusable Angular components."
+      ]
+    },
+    {
+      "company": "NetSole Technologies",
+      "role": "Junior Software Engineer",
+      "duration": "Aug 2018 - Jan 2019",
+      "tech_stack": [
+        "ASP.NET MVC5",
+        "ADO.NET",
+        "SQL Server",
+        "Entity Framework",
+        "Razor",
+        "jQuery",
+        "Bootstrap",
+        "HTML/CSS",
+        "Python",
+        "OpenCV",
+        "DLIB",
+        "R"
+      ],
+      "achievements": [
+        "Developed ERP modules (Warehouse, Helpdesk, HRM).",
+        "Designed responsive web interfaces with Razor + Bootstrap.",
+        "Maintained portals for customers, vendors, employees.",
+        "Built SQL procedures and triggers.",
+        "Created real-time emotion recognition system (SVM + R)."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "role": "Independent Python Developer",
+      "duration": "2014 - 2025",
+      "tech_stack": [
+        "Python",
+        "JavaScript/TypeScript",
+        "SQL",
+        "Django",
+        "Angular",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "SQL Server",
+        "Pandas",
+        "NumPy",
+        "Selenium",
+        "Scrapy"
+      ],
+      "achievements": [
+        "Built 20+ scraping pipelines across industries.",
+        "Extracted 15,000+ legal records from multiple directories.",
+        "Developed NHL odds and sports scrapers with real-time refresh.",
+        "Compiled healthcare/licensing directories.",
+        "Scraped 42,000+ fragrance/chemical records into structured data.",
+        "Built precursor scrapers (5,000+ records).",
+        "Created Python CLI database CRUD app.",
+        "Built PDF-to-Excel/JSON converter.",
+        "Delivered hybrid automation tools (Python + Node.js).",
+        "Django web app MVP with authentication + PostgreSQL.",
+        "Delivered structured datasets in Excel/CSV/JSON/Google Sheets."
+      ]
+    }
+  ]
+}
